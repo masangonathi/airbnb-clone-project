@@ -28,7 +28,7 @@ DevOps Engineers: Manage deployment pipelines, environment setup, and ensure smo
 Product Owner: Defines project goals, gathers requirements, and prioritizes tasks.
 Scrum Master: Facilitates agile processes, resolves obstacles, and ensures team productivity.
 
-# UI Componenet Patterns
+# UI Component Patterns
 
 ## Components Overview
 
